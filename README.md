@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on [hdfcBankingProject](https://github.com/JainProgramingColony/C_ProjectsbySelf/blob/main/hdfcBankingSystem.c)
 
-- 🌱 I’m currently learning **Data Structures & Algorithms**
+- 🌱 Focused on Mastering **Python and Data Structures & Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JainProgramingColony?tab=repositories](https://github.com/JainProgramingColony?tab=repositories)
 
-- 💬 Only Ask me about **Programing Related**
+- 💬 Only Ask me about **Programing Related Questions**
 
-- 📫 How to reach me **insecureaiyourr@gmail.com**
+- 📫 My E-mail I'd is  **insecureaiyourr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
