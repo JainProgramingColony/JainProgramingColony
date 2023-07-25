@@ -1,4 +1,4 @@
-![logo](https://github.com/JainProgramingColony/JainProgramingColony/blob/main/WhatsApp%20Image%202023-07-25%20at%202.14.06%20PM.jpeg)
+![logo]([https://github.com/JainProgramingColony/JainProgramingColony/blob/main/WhatsApp%20Image%202023-07-25%20at%202.14.06%20PM.jpeg](https://github.com/JainProgramingColony/JainProgramingColony/blob/main/WhatsApp%20Image%202023-07-25%20at%202.14.06%20PM.jpeg))
 <h1 align="center">Welcome to my GitHub profile! 👋, I'm Pragyesh Jain</h1>
 <h3 align="center">Tech Enthusiast || AI/ML/DL Specialist || B.Tech CSE Student of Teerthanker Mahaveer University || Proficient in C/C++</h3>
  
