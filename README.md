@@ -1,6 +1,6 @@
 ![logo](https://github.com/JainProgramingColony/JainProgramingColony/blob/main/Google%20iMAGE.jpeg)
 <h1 align="center">Welcome to my GitHub profile! 👋, I'm Pragyesh Jain</h1>
-<h3 align="center">Tech Enthusiast || AI/ML/DL Specialist || B.Tech CSE Student of Teerthanker Mahaveer University || Proficient in C/C++</h3>
+<h3 align="center">Tech Enthusiast || AI/ML/DL Specialist || Student of Teerthanker Mahaveer University</h3>
 
  <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JainProgramingColony?tab=repositories](https://github.com/JainProgramingColony?tab=repositories)
 
-- 💬 Ask me about **You can ask me anything about myself or any questions related to my Repositories. Whether you're curious about my background, interests, or experiences, or seeking insights into the Projects I've worked on, I'm here to provide concise answers.Don't hesitate to inquire – I'm excited to share my knowledge and experiences with you!**
+- 💬 Ask me about **You can ask me anything about myself or any questions related to my Repositories. Whether you're curious about my background, interests, or experiences, or seeking insights into the Projects I've worked on, I'm here to provide concise answers. Don't hesitate to inquire – I'm excited to share my knowledge and experiences with you!**
 
 - 📫 My E-mail I'd is  **insecureaiyourr@gmail.com**
 
