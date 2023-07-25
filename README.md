@@ -1,7 +1,8 @@
 ![logo](https://github.com/JainProgramingColony/JainProgramingColony/blob/main/Google%20iMAGE.jpeg)
 <h1 align="center">Welcome to my GitHub profile! 👋, I'm Pragyesh Jain</h1>
 <h3 align="center">Tech Enthusiast || AI/ML/DL Specialist || B.Tech CSE Student of Teerthanker Mahaveer University || Proficient in C/C++</h3>
- 
+
+ <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainprogramingcolony&label=Profile%20views&color=0e75b6&style=flat" alt="jainprogramingcolony" /> </p>
 
