@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JainProgramingColony?tab=repositories](https://github.com/JainProgramingColony?tab=repositories)
 
-- 💬 Ask me about **You can ask me anything about myself or any questions related to my Repositories. Whether you're curious about my background, interests, or experiences, or seeking insights into the Projects I've worked on, I'm here to provide concise answers. Don't hesitate to inquire – I'm excited to share my knowledge and experiences with you!**
+- 💬 Ask me ** anything about myself or any questions related to my Repositories. Whether you're curious about my background, interests, or experiences, or seeking insights into the Projects I've worked on, I'm here to provide concise answers. Don't hesitate to inquire – I'm excited to share my knowledge and experiences with you!**
 
 - 📫 My E-mail I'd is  **insecureaiyourr@gmail.com**
 
