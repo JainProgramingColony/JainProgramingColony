@@ -18,7 +18,7 @@
 
 - 📫 How to reach me - **insecureaiyourr@gmail.com**
 
-- 📄 Know about my experiences [( I Working on Resume).](( I Working on Resume).)
+- 📄 Know about my experiences **I Working on my Resume**
 
 - ⚡ Serious Guy **I am very Serious about my Carrier.**
 
