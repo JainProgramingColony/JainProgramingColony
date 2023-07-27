@@ -1,22 +1,26 @@
-![logo](https://github.com/JainProgramingColony/JainProgramingColony/blob/main/Google%20iMAGE.jpeg)
-<h1 align="center">Welcome to my GitHub profile! 👋, I'm Pragyesh Jain</h1>
-<h3 align="center">Tech Enthusiast || AI/ML/DL Specialist </h3>
+![logo](https://github.com/JainProgramingColony/JainProgramingColony/blob/main/Google%20iMAGE.jpeg)  
+<h1 align="center">Welcome to my GitHub Profile! 👋, I'm Pragyesh Jain</h1>
+<h3 align="center">Tech Enthusiast || AI/ML/DL Specialist</h3>
 
- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainprogramingcolony&label=Profile%20views&color=0e75b6&style=flat" alt="jainprogramingcolony" /> </p>
 
 <p align="left"> <a href="https://twitter.com/the_pragyeshji" target="blank"><img src="https://img.shields.io/twitter/follow/the_pragyeshji?logo=twitter&style=for-the-badge" alt="the_pragyeshji" /></a> </p>
 
-- 🔭 I’m currently working on [hdfcBankingProject](https://github.com/JainProgramingColony/C_ProjectsbySelf/blob/main/hdfcBankingSystem.c)
+- 🔭 I’m currently working on [my_C_Projects](https://github.com/JainProgramingColony/C_ProjectsbySelf)
 
-- 🌱 Focused on Mastering **Python and Data Structures & Algorithms**
+- 🌱 I’m currently learning **Data Structures & Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JainProgramingColony?tab=repositories](https://github.com/JainProgramingColony?tab=repositories)
+- 👨💻 All of my projects are available at [https://github.com/JainProgramingColony?tab=repositories](https://github.com/JainProgramingColony?tab=repositories)
 
-- 💬 Ask me ** anything about myself or any questions related to my Repositories. Whether you're curious about my background, interests, or experiences, or seeking insights into the Projects I've worked on, I'm here to provide concise answers. Don't hesitate to inquire – I'm excited to share my knowledge and experiences with you!**
+- 💬 Ask me **anything about myself or any questions related to my Repositories. Whether you're curious about my background, interests, or experiences, or seeking insights into the Projects I've worked on, I'm here to provide concise answers. Don't hesitate to inquire – I'm excited to share my knowledge and experiences with you!**
 
-- 📫 My E-mail I'd is  **insecureaiyourr@gmail.com**
+- 📫 How to reach me - **insecureaiyourr@gmail.com is My Email I'd to connect with me.**
+
+- 📄 Know about my experiences [( I Working on Resume).](( I Working on Resume).)
+
+- ⚡ Serious Guy **I am very Serious about my Carrier.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,4 +34,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jainprogramingcolony&show_icons=true&locale=en&layout=compact" alt="jainprogramingcolony" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jainprogramingcolony&show_icons=true&locale=en" alt="jainprogramingcolony" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jainprogramingcolony&show_icons=true&locale=en" alt="jainprogramingcolony" /></p> 
