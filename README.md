@@ -16,7 +16,7 @@
 
 - 💬 Ask me **anything about myself or any questions related to my Repositories. Whether you're curious about my background, interests, or experiences, or seeking insights into the Projects I've worked on, I'm here to provide concise answers. Don't hesitate to inquire – I'm excited to share my knowledge and experiences with you!**
 
-- 📫 How to reach me - **insecureaiyourr@gmail.com is My Email I'd to connect with me.**
+- 📫 How to reach me - **insecureaiyourr@gmail.com**
 
 - 📄 Know about my experiences [( I Working on Resume).](( I Working on Resume).)
 
