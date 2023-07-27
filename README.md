@@ -6,7 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainprogramingcolony&label=Profile%20views&color=0e75b6&style=flat" alt="jainprogramingcolony" /> </p>
 
-<p align="left"> <a href="https://twitter.com/the_pragyeshji" target="blank"><img src="https://img.shields.io/twitter/follow/the_pragyeshji?logo=twitter&style=for-the-badge" alt="the_pragyeshji" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/jainai-technocrat/" target="blank"><img src="https://img.shields.io/twitter/follow/the_pragyeshji?logo=twitter&style=for-the-badge" alt="the_pragyeshji" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/technocrat_ai.jain/" target="blank"><img src="https://img.shields.io/twitter/follow/the_pragyeshji?logo=twitter&style=for-the-badge" alt="the_pragyeshji" /></a> </p>
+
 
 - 🔭 I’m currently working on [my_C_Projects](https://github.com/JainProgramingColony/C_ProjectsbySelf)
 
