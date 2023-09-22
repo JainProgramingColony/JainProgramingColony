@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://www.instagram.com/technocrat_ai.jain/" target="blank"><img src="https://img.shields.io/twitter/follow/technocrat_ai.jain?logo=instagram&style=the-badge" alt=""Pragyesh Jain Instagram Profile" /></a> </p>
 
 
-- 🔭 I’m currently working on [my_C_Projects](https://github.com/JainProgramingColony/C_PlusPlustutorialsbySelf)
+- 🔭 I’m currently working on [my_C++ tutorials Repository](https://github.com/JainProgramingColony/C_PlusPlustutorialsbySelf)
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
