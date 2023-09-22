@@ -35,7 +35,7 @@ href="https://kaggle.com/pragyeshjain" target="blank"><img align="center" src="h
 <a 
 href="https://fb.com/pragyeshjainji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/pragyeshjainji?mibextid=9r9pxo" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jainprogrammingcolony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jainprogrammingcolony" height="30" width="40" /></a>
-<a href="https://www.GitHub.com/JainProgrammingColony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/GitHub.svg" alt="jainprogrammingcolony" height="30" width="40" /></a>
+<a href="https://github.com/JainProgramingColony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/GitHub.svg" alt="jainprogrammingcolony" height="30" width="40" /></a>
 
 </p>
 
