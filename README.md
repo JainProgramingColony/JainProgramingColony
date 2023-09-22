@@ -7,6 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainprogramingcolony&label=Profile%20views&color=0e75b6&style=flat" alt="jainprogramingcolony" /> </p>
 
+  <p align="left"> <a href="https://www.linkedin.com/in/jainai-technocrat/" target="blank"><img src="https://img.shields.io/twitter/follow/Pragyesh Jain?logo=linkedin&style=the-badge" alt="Pragyesh Jain Linkedin Profile " /></a> </p>
+  <p align="left"> <a href="https://www.instagram.com/technocrat_ai.jain/" target="blank"><img src="https://img.shields.io/twitter/follow/technocrat_ai.jain?logo=instagram&style=the-badge" alt=""Pragyesh Jain Instagram Profile" /></a> </p>
 
 
 - 🔭 I’m currently working on [my_C_Projects](https://github.com/JainProgramingColony/C_ProjectsbySelf)
