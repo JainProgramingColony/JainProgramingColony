@@ -8,7 +8,7 @@
 <br><br><br><br><br><br><br><br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainprogramingcolony&label=Profile%20views&color=0e75b6&style=flat" alt="jainprogramingcolony" /> </p>
 
-<p align="left"> <a href="https://www.instagram.com/technocrat_ai.jain/" target="blank"><img src="https://img.shields.io/twitter/follow/technocrat_ai.jain?logo=instagram&style=the-badge" alt=""Pragyesh Jain Instagram Profile" width="200" height="35"/></a> </p>
+<p align="left"> <a href="https://www.instagram.com/technocrat_ai.jain/" target="blank"><img src="https://img.shields.io/twitter/follow/technocrat_ai.jain?logo=instagram&style=the-badge" alt=""Pragyesh Jain Instagram Profile" width="200" height="40"/></a> </p>
 
 
 - 🔭 I’m currently working on [my_C++tutorials](https://github.com/JainProgramingColony/C_PlusPlustutorialsbySelf)
