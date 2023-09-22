@@ -49,3 +49,5 @@ href="https://fb.com/pragyeshjainji" target="blank"><img align="center" src="htt
 <br><br><br><br><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jainprogramingcolony&show_icons=true&locale=en" alt="jainprogramingcolony" /></p> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jainprogramingcolony&theme=default" alt="jainprogramingcolony" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jainprogrammingcolony&show_icons=true&locale=en" alt="jainprogrammingcolony" /></p>
