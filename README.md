@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [my_C++tutorials](https://github.com/JainProgramingColony/C_PlusPlustutorialsbySelf)
 
-- 🌱 Currently I’m learning **Data Structures & Algorithms**
+- 🌱 Currently I’m learning **C++ Programming Language with Data Structures & Algorithms**
 
 - 👨💻 All of my projects are available at [https://github.com/JainProgramingColony?tab=repositories](https://github.com/JainProgramingColony?tab=repositories)
 
